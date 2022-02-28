@@ -1,16 +1,6 @@
 ### Hi there 👋 🧑‍💻
 
-### List of My Work🚀
-- [**Lending and Borrowing**](https://lending-and-borrowing.herokuapp.com/)
-  - Laravel, Heroku
-- [**Bread Diary**](https://bread-diary-web.web.app/)
-  - React, Typescript, Firebase
-- [**Goal for Me**](https://goal-for-me.web.app/)
-  - React, Typescript, Firebase
-- [**PokeNuxt**](https://pokenuxt.vercel.app/)
-  - Nuxt, Javascript, Vercel
 
-<br/>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -69,3 +59,17 @@ Python                   1 repo              █░░░░░░░░░░�
 
  Last Updated on 27/02/2022 19:35:10 UTC
 <!--END_SECTION:waka-->
+
+
+<br />
+
+### List of My Work🚀
+- [**Lending and Borrowing**](https://lending-and-borrowing.herokuapp.com/)
+  - Laravel, Heroku
+- [**Bread Diary**](https://bread-diary-web.web.app/)
+  - React, Typescript, Firebase
+- [**Goal for Me**](https://goal-for-me.web.app/)
+  - React, Typescript, Firebase
+- [**PokeNuxt**](https://pokenuxt.vercel.app/)
+  - Nuxt, Javascript, Vercel
+
