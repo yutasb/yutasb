@@ -77,4 +77,6 @@ Python                   1 repo              █░░░░░░░░░░�
 [2022]
 - [**PokeNuxt**](https://pokenuxt.vercel.app/)
   - Nuxt, Javascript, Vercel
+- [**Do it or not**](https://apps.apple.com/jp/app/do-it-or-not/id1613818865)
+  - Flutter
 
