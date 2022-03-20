@@ -64,19 +64,11 @@ Ruby                     2 repos             ██░░░░░░░░░�
 <br />
 
 ### List of My Work🚀
-[2020]
-- [**Lending and Borrowing**](https://lending-and-borrowing.herokuapp.com/)
-  - Laravel, Heroku
 
-[2021]
-- [**Bread Diary**](https://bread-diary-web.web.app/)
-  - React, Typescript, Firebase
-- [**Goal for Me**](https://goal-for-me.web.app/)
-  - React, Typescript, Firebase
-
-[2022]
-- [**PokeNuxt**](https://pokenuxt.vercel.app/)
-  - Nuxt, Javascript, Vercel
-- [**Do it or not**](https://apps.apple.com/jp/app/do-it-or-not/id1613818865)
-  - Flutter
-
+| Year | Service | Stack |
+|--|--|--|
+| 2020 | [**Lending and Borrowing**](https://lending-and-borrowing.herokuapp.com/) | Laravel, Heroku |
+| 2021 | [**Bread Diary**](https://bread-diary-web.web.app/) | React, Typescript, Firebase |
+|  | [**Goal for Me**](https://goal-for-me.web.app/) | React, Typescript, Firebase |
+| 2022 | [**PokeNuxt**](https://pokenuxt.vercel.app/) | Nuxt, Javascript, Vercel |
+|  | [**Do it or not**](https://apps.apple.com/jp/app/do-it-or-not/id1613818865) | Flutter |
